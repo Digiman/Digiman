@@ -10,6 +10,8 @@ Working with the Microsoft stack .NET (C#) and related tools. Also using clouds 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiman&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiman&theme=dark)](https://git.io/streak-stats)
+
 ## 👀😜 Interesting stuff
 
 My hobbies are:
@@ -28,10 +30,10 @@ Integresting links:
 
 ## 🏪 Contacts
 
-* [Instagram](https://www.instagram.com/digiman89/) - main account
-    * second account for traveling [Belarus Travel Shorts](https://www.instagram.com/belarustravelshorts/)
-* [Telegram](https://t.me/Digiman89)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-FD1D1D?style=for-the-badge&logo=instagram&logoWidth=20&logoColor=white&labelColor=F77737)](https://www.instagram.com/digiman89/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white&labelColor=1b94c9)](https://t.me/Digiman89)
+[![Goodreads](https://img.shields.io/badge/Goodreads-e9e5cd?style=for-the-badge&logo=goodreads&logoWidth=20&logoColor=553b08&labelColor=d8d4bc)](https://www.goodreads.com/digiman)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-008CC9?style=for-the-badge&logo=linkedin&logoWidth=20&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/andrey-kukharenko/)
 
 ## ⚙ Technologies
 
