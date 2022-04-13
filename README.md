@@ -34,6 +34,8 @@ Integresting links:
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white&labelColor=1b94c9)](https://t.me/Digiman89)
 [![Goodreads](https://img.shields.io/badge/Goodreads-e9e5cd?style=for-the-badge&logo=goodreads&logoWidth=20&logoColor=553b08&labelColor=d8d4bc)](https://www.goodreads.com/digiman)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-008CC9?style=for-the-badge&logo=linkedin&logoWidth=20&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/andrey-kukharenko/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoWidth=20&logoColor=white&labelColor=657786)](https://twitter.com/digiman007)
+[![YouTube](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoWidth=20&logoColor=white&labelColor=282828)](https://www.youtube.com/channel/UCwLG81-10UQZn5sNVITl11A)
 
 ## ⚙ Technologies
 
